@@ -44,11 +44,11 @@ hr.star-dark:after {
 }
 
 hr.star-light {
-  border-color: #fff;
+  border-color: #f0f0f7;
 }
 
 hr.star-light:after {
-  color: #fff;
+  color: #f0f0f7;
   background-color: #78a1bb;
 }
 
@@ -111,7 +111,7 @@ section h2 {
 }
 
 #mainNav .navbar-brand {
-  color: #fff;
+  color: #f0f0f7;
 }
 
 #mainNav .navbar-nav {
@@ -120,7 +120,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link {
-  color: #fff;
+  color: #f0f0f7;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
@@ -128,7 +128,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
-  color: #fff;
+  color: #f0f0f7;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
@@ -156,11 +156,11 @@ section h2 {
     margin-top: 0;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
-    color: #fff;
+    color: #f0f0f7;
     background: #78a1bb;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
-    color: #fff;
+    color: #f0f0f7;
     background: #78a1bb;
   }
   #mainNav.navbar-shrink {
@@ -328,7 +328,7 @@ form .row:first-child .floating-label-form-group {
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: #000000;
-  color: #fff;
+  color: #f0f0f7;
 }
 
 .copyright {
