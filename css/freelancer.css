@@ -49,7 +49,7 @@ hr.star-light {
 
 hr.star-light:after {
   color: #f0f0f7;
-  background-color: #78a1bb;
+  background-color: #00aced;
 }
 
 hr.star-dark {
@@ -124,7 +124,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #78a1bb;
+  color: #00aced;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
@@ -132,7 +132,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #78a1bb;
+  color: #00aced;
 }
 
 #mainNav .navbar-toggler {
@@ -157,11 +157,11 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #f0f0f7;
-    background: #78a1bb;
+    background: #00aced;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #f0f0f7;
-    background: #78a1bb;
+    background: #00aced;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -317,7 +317,7 @@ header.masthead h2 {
 }
 
 .floating-label-form-group-with-focus label {
-  color: #78a1bb;
+  color: #00aced;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -336,7 +336,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 a {
-  color: #78a1bb;
+  color: #00aced;
 }
 
 a:focus, a:hover, a:active {
@@ -348,7 +348,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #78a1bb !important;
+  background-color: #00aced !important;
 }
 
 .bg-secondary {
@@ -356,7 +356,7 @@ a:focus, a:hover, a:active {
 }
 
 .text-primary {
-  color: #78a1bb !important;
+  color: #00aced !important;
 }
 
 .text-secondary {
@@ -364,8 +364,8 @@ a:focus, a:hover, a:active {
 }
 
 .btn-primary {
-  background-color: #78a1bb;
-  border-color: #78a1bb;
+  background-color: #00aced;
+  border-color: #00aced;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
